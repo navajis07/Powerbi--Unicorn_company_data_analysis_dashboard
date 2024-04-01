@@ -1,10 +1,10 @@
-# Unicorn_company_data_analysis_dashboard
+# Unicorn_Company_Data_Analysis_Dashboard_Powerbi
 Crafted an insightful Unicorn Company Data Analytics Dashboard using Power BI, empowering organizations with comprehensive workforce insights.
 
 
 ## Screenshots of dashboard
 
-![App Screenshot](https://github.com/navajis07/HR_data_analysis_Dashboard-Powerbi-/blob/main/Screenshot_20240104_004133.png?raw=true)
+![App Screenshot](https://github.com/navajis07/Unicorn_company_data_analysis_dashboard_powerbi/blob/main/Screenshot_20240330_132148.png?raw=true)
 
 ## 🚀 About Me
 I'm a full stack data scientist...
